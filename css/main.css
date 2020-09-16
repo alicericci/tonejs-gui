@@ -1,0 +1,26 @@
+button, input{
+  cursor: pointer;
+}
+
+.container{
+  margin-bottom: 2em;
+  padding-left: 1em;
+}
+
+.exportText{
+  width: 30vw;
+  padding-left: 2vw;
+  color: blue;
+}
+
+.subcontainer{
+  display: flex;
+}
+
+.active{
+  color: blue;
+}
+
+.container-content{
+  display: flex;
+}
